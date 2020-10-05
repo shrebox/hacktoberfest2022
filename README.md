@@ -6,6 +6,7 @@ Hi, My name is Ayushi.I'm a Student.I like listening music, you might find this 
 
 Hi Im Ananya, a smile spreader. I love playing badminton and making art.  
 https://youtu.be/K-a8s8OLBSE
+![LizGif](https://media.giphy.com/media/CXEYAtdOvXXXO/giphy.gif)
 
 
 Hi I am Aditi and heres something you will enjoy : https://www.youtube.com/watch?v=nz1lKuv7XGw
