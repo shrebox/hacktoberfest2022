@@ -10,6 +10,4 @@ https://youtu.be/K-a8s8OLBSE
 
 
 Hi I am Aditi and heres something you will enjoy : https://www.youtube.com/watch?v=nz1lKuv7XGw
-
-
-(https://media.giphy.com/media/inyqrgp9o3NUA/giphy.gif
+![alt-text](https://media.giphy.com/media/inyqrgp9o3NUA/giphy.gif)
