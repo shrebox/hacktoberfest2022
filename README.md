@@ -11,5 +11,5 @@ https://youtu.be/K-a8s8OLBSE
 
 Hi I am Aditi and heres something you will enjoy : https://www.youtube.com/watch?v=nz1lKuv7XGw
 
-![GIF name](https://media.giphy.com/media/qugzlUdW5CkeI/giphy.gif!)
+![GIF name](https://media.giphy.com/media/qugzlUdW5CkeI/giphy.gif)
 
