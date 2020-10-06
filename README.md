@@ -26,3 +26,24 @@ Hi I am Aditi and heres something you will enjoy : https://www.youtube.com/watch
 Hi I am Pasan . Karma says, Don't be too happy . Enjoy movies : https://www.youtube.com/watch?v=cNvi8abG2_U
 
 ![GIF name](https://media.giphy.com/media/l3vR0iVsWTfVt8vo4/giphy.gif)
+<html>
+<body>
+
+<h2>JavaScript Statements</h2>
+
+<p>A <b>JavaScript program</b> is a list of <b>statements</b> to be executed by a computer.</p>
+
+<p id="demo"></p>
+
+<script>
+var x, y, z;  // Declare 3 variables
+x = 5;    // Assign the value 5 to x
+y = 6;    // Assign the value 6 to y
+z = x + y;  // Assign the sum of x and y to z
+
+document.getElementById("demo").innerHTML =
+"The value of z is " + z + ".";
+</script>
+
+</body>
+</html>
