@@ -14,3 +14,7 @@ https://youtu.be/K-a8s8OLBSE
 Hi I am Aditi and heres something you will enjoy : https://www.youtube.com/watch?v=nz1lKuv7XGw
 
 ![alt-text](https://media.giphy.com/media/inyqrgp9o3NUA/giphy.gif)
+
+Hi I am Pasan . Karma says, Don't be too happy . Enjoy movies : https://www.youtube.com/watch?v=cNvi8abG2_U
+
+![GIF name](https://media.giphy.com/media/l3vR0iVsWTfVt8vo4/giphy.gif)
