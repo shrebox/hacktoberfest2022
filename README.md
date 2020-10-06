@@ -26,3 +26,41 @@ Hi I am Aditi and heres something you will enjoy : https://www.youtube.com/watch
 Hi I am Pasan . Karma says, Don't be too happy . Enjoy movies : https://www.youtube.com/watch?v=cNvi8abG2_U
 
 ![GIF name](https://media.giphy.com/media/l3vR0iVsWTfVt8vo4/giphy.gif)
+#include <stdio.h>
+
+
+int main(void)
+{
+
+	int num1,num2;
+
+	printf("Enter two numbers:");
+	scanf("%d %d",&num1,&num2);
+
+	if(num1<num2)
+
+	{
+		
+		printf("%d is smaller",num1);
+	
+	}
+	
+	else if(num2<num1)
+
+	{
+
+		printf("%d is smaller",num2);
+	
+}
+
+	else
+
+	{
+
+		printf("%d and %d are equal",num1,num2);
+
+	}
+
+	return 0;
+
+}
