@@ -7,13 +7,13 @@ int main() {
     printf("Please Enter Two different values\n");  
     scanf("%d %d", &a, &b);  
     
-    if(a > b) 
+    if(a < b) 
     {
-        printf("%d is Largest\n", a);          
+        printf("%d is Largest\n", b);          
     } 
-    else if (b > a)
+    else if (b < a)
     { 
-        printf("%d is Largest\n", b);  
+        printf("%d is Largest\n", a);  
     } 
     else 
     {
