@@ -29,3 +29,5 @@ Hi I am Pasan . Karma says, Don't be too happy . Enjoy movies : https://www.yout
 
 Hey there! I am Soumyadeepta, heres something youll enjoy : https://youtu.be/mxFstYSbBmc
 ![GIF](https://media.giphy.com/media/hsUG0ob8Rezq14kZg6/giphy.gif)
+
+Hi Myself sunny jha. I love coding and i have some courses for you which helps in growing in technical field https://www.youtube.com/watch?v=z9bZufPHFLU&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ
