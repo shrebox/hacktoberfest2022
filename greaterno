@@ -1,10 +1,10 @@
-/* C Program to Find Largest of Two numbers */ 
+/* C Program to Find Larger of Two numbers */ 
    
 #include <stdio.h>  
    
 int main() {  
     int a, b;  
-    printf("Please Enter Two different values\n");  
+    printf("Please Enter Two values\n");  
     scanf("%d %d", &a, &b);  
     
     if(a > b) 
