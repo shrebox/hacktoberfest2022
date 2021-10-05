@@ -5,3 +5,11 @@ GOSSIP GIRL
 LITTLE THINGS
 SCREAM
 ![Yay](https://media.giphy.com/media/inyqrgp9o3NUA/giphy.gif)
+// Your First C++ Program
+
+#include <iostream>
+
+int main() {
+    std::cout << "Hello World!";
+    return 0;
+}
