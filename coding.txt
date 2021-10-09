@@ -1,6 +1,11 @@
-//Top 5 programming languages
+//Top 10 programming languages
 1. Python
 2.Java
 3.C++
 4.Javascript
 5.C#
+6.C
+7.PHP
+8.Kotlin
+9.Typescript
+10.Perl
