@@ -1,11 +1,83 @@
-# Hacktoberfest-2021
-Repo to commit.
+# Hacktoberfest ([Live Website](https://hacktoberfest.digitalocean.com/))
 
-Follow the below instructions to contribute:
-1. Register yourself [here](https://hacktoberfest.digitalocean.com/) before opening any pull requests.
-2. You can edit any of the added files to the repo.
-3. Add new files that you might find interesting to share: books, songs, links to videos, anything etc. :)
-4. Anything that you feel will help in making learn the use of open source contribution.
+**This is a beginner-friendly project to help you get started with your
+[hacktoberfest](https://hacktoberfest.digitalocean.com/). If you don't
+know where to start, feel free to watch the videos linked below, and
+read the contribution rules. Happy hacking <3 💙 !!**
+
+P.S. Star ⭐ and Share this repository, if you had fun!! 😍
+
+![Hacktoberfest 2021](https://hacktoberfest.digitalocean.com/_nuxt/img/logo-hacktoberfest-full.f42e3b1.svg)
+
+
+# 📌 Videos:
+
+- [Hacktoberfest Intro](https://youtu.be/OsAFX_ZbgaE)
+- [How to pull request [Overview]](https://youtu.be/DIj2q02gvKs)
+- [Merge Conflict / comment](https://youtu.be/zOx5PJTY8CI)
+
+
+# Contribution rules📚:
+
+- The project must work when opening Contributors.html
+- You are allowed to make pull requests that break the rules. We just merge it ;)
+- Do NOT add any build steps e.g npm install (we want to keep this a simple static site)
+- Do NOT remove other content.
+- Styling/code can be pretty, ugly or stupid, big or small as long as it works
+- Add your name to the Contributors.html file
+- Try to keep pull requests small to minimize merge conflicts
+
+
+## Getting Started 🤗:
+
+- Fork this repo (button on top)
+- Clone on your local machine
+- Create a new pull request from your forked repository
+
+
+## Avoid Conflicts (Syncing your fork)
+
+An easy way to avoid conflicts is to add an 'upstream' for your git repo, as other PR's may be merged while you're working on your branch/fork.   
+
+```terminal
+git remote add upstream https://github.com/fineanmol/Hacktoberfest2021
+```
+
+You can verify that the new remote has been added by typing
+```terminal
+git remote -v
+```
+
+To pull any new changes from your parent repo simply run
+```terminal
+git merge upstream/master
+```
+
+This will give you any eventual conflicts and allow you to easily solve them in your repo. It's a good idea to use it frequently in between your own commits to make sure that your repo is up to date with its parent.
+
+For more information on syncing forks [read this article from Github](https://help.github.com/articles/syncing-a-fork/).
+
+
+# FAQs 
+
+- Who can contribute?
+  - Anyone with a github account and who is signed up for
+[hacktoberfest](https://hacktoberfest.digitalocean.com/) :)
+- Are you getting paid for this?
+  - Sadly no. But we think we should. This is 100% unofficial and we do it for fun, fame and glory.
+- How many pull request (PR) must be made, if I can get a awesome shirt from Hacktoberfest 2021?
+  - 4
+- How do I track my progress to get an awesome shirt from Hacktoberfest 2021?
+  - [go to :](https://hacktoberfest.digitalocean.com/profile/). (Check Out Your Own Stats at Right Top)
+- What is the duration of Hacktoberfest 2021?
+  - It is from 1st october to 31st october 2021...
+- What is the event for?
+  - For the open source community engagement
+
+
+
+###### *We will do our best to merge as much as possible from everyone. However, time is limited and the merge conflicts are horrible <3*
+
 
 Happy Hacking! :octocat:
 
