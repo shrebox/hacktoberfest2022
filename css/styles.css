@@ -1,0 +1,98 @@
+:root{
+    --title-size : 60px;
+    --title-size-mobile : 30px;
+    --content-size: 30px;
+    --content-size-mobile: 15px;
+    --highlight: #F74700;
+}
+
+/* width */
+::-webkit-scrollbar {
+    width: 10px;
+}
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    background: black
+  }
+   
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: #888; 
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #555; 
+  }
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: white;
+    background-color: black;
+    font-family: 'Montserrat', sans-serif;
+}
+
+hr{
+    margin: 2% 0;
+}
+
+img{
+    max-width: 100%;
+}
+.container{
+    align-items: center;
+    
+}
+
+.about_us{
+    max-width: 80%;
+    height: 100vh;
+    margin: auto;
+}
+
+.about_us h1{
+    font-size: var(--title-size);
+}
+
+.about_us p{
+    font-size: var(--content-size);
+}
+
+.about_us a{
+    text-decoration: none;
+    color: var(--highlight);
+}
+
+.about_us ul{
+    list-style: none;
+}
+
+.about_us li{
+    font-size: var(--content-size);
+}
+
+.terminal{
+    color: darkgreen;
+    background-color: rgb(218, 214, 214);
+    margin: 2%;
+    padding: 1%;
+    font-family: 'Roboto Mono', monospace;
+}
+
+@media (max-width: 500px){
+    .about_us{
+        max-width: 95%;
+        height: auto;
+    }
+
+    .about_us h1{
+        font-size: var(--title-size-mobile);
+    }
+    
+    .about_us p,.about_us a,.about_us ul,.about_us li{
+        font-size: var(--content-size-mobile);
+    }
+}
