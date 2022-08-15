@@ -1,0 +1,58 @@
+[1mdiff --git a/index.html b/index.html[m
+[1mindex f47b22d..99bc3ef 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -125,7 +125,7 @@[m
+             <p class="group-p">[m
+                 Sed ut ciatis unde omnis iste natus error sit volup tatem accusa ntium dolor emque lauda ntium, totam rem aperiam[m
+             </p>[m
+[31m-            <a href="#" class="group-a2">Read More</a>[m
+[32m+[m[32m            <a href="#" class="group-a2">learn More</a>[m
+         </div>[m
+ [m
+         <div class="group2 container col-md-4 col-sm-6 col-2">[m
+[36m@@ -133,7 +133,7 @@[m
+             <p class="group-p">[m
+                 Sed ut ciatis unde omnis iste natus error sit volup tatem accusa ntium dolor emque lauda ntium, totam rem aperiam[m
+             </p>[m
+[31m-            <a href="#" class="group-a2">Read More</a>[m
+[32m+[m[32m            <a href="#" class="group-a2">learn more</a>[m
+         </div>[m
+ [m
+         <div class="group3 container col-md-4 col-sm-6 col-2">[m
+[36m@@ -141,7 +141,7 @@[m
+             <p class="group-p">[m
+                 Sed ut ciatis unde omnis iste natus error sit volup tatem accusa ntium dolor emque lauda ntium, totam rem aperiam[m
+             </p>[m
+[31m-            <a href="#" class="group-a2">Read More</a>[m
+[32m+[m[32m            <a href="#" class="group-a2">learn more</a>[m
+         </div>[m
+         [m
+     </div> -->[m
+[36m@@ -154,7 +154,7 @@[m
+                         Sed ut ciatis unde omnis iste natus error sit volup tatem accusa ntium dolor emque lauda ntium,[m
+                         totam rem aperiam[m
+                     </p>[m
+[31m-                    <a href="#" class="group-a2">Read More</a>[m
+[32m+[m[32m                    <a href="#" class="group-a2">learn more</a>[m
+                 </div>[m
+                 <div class="group2 col-sm-5 col-md-3 col-8">[m
+                     <h2 class="group-h2">Marketing Research</h2>[m
+[36m@@ -162,7 +162,7 @@[m
+                         Sed ut ciatis unde omnis iste natus error sit volup tatem accusa ntium dolor emque lauda ntium,[m
+                         totam rem aperiam[m
+                     </p>[m
+[31m-                    <a href="#" class="group-a2">Read More</a>[m
+[32m+[m[32m                    <a href="#" class="group-a2">learn More</a>[m
+                 </div>[m
+ [m
+                 <div class="group3 col-sm-5 col-md-3 col-8">[m
+[36m@@ -171,7 +171,7 @@[m
+                         Sed ut ciatis unde omnis iste natus error sit volup tatem accusa ntium dolor emque lauda ntium,[m
+                         totam rem aperiam[m
+                     </p>[m
+[31m-                    <a href="#" class="group-a2">Read More</a>[m
+[32m+[m[32m                    <a href="#" class="group-a2">learn More</a>[m
+                 </div>[m
+ [m
+             </div>[m
