@@ -7,7 +7,7 @@ read the contribution rules. Happy hacking <3 💙 !!**
 
 P.S. Star ⭐ and Share this repository, if you had fun!! 😍
 
-![Hacktoberfest 2021](https://hacktoberfest.digitalocean.com/_nuxt/img/logo-hacktoberfest-full.f42e3b1.svg)
+![Hacktoberfest 2022](https://hacktoberfest.digitalocean.com/_nuxt/img/logo-hacktoberfest-full.f42e3b1.svg)
 
 
 # 📌 Videos:
@@ -65,7 +65,7 @@ For more information on syncing forks [read this article from Github](https://he
 [hacktoberfest](https://hacktoberfest.digitalocean.com/) :)
 - Are you getting paid for this?
   - Sadly no. But we think we should. This is 100% unofficial and we do it for fun, fame and glory.
-- How many pull request (PR) must be made, if I can get a awesome shirt from Hacktoberfest 2021?
+- How many pull request (PR) must be made, if I can get a awesome shirt from Hacktoberfest 2022?
   - 4
 - How do I track my progress to get an awesome shirt from Hacktoberfest 2021?
   - [go to :](https://hacktoberfest.digitalocean.com/profile/). (Check Out Your Own Stats at Right Top)
