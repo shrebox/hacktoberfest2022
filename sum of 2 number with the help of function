@@ -1,0 +1,20 @@
+#include<iostream>
+using namespace std;
+void sum(int a,int b){
+    cout<< a+b;
+}
+
+int add(int a,int b){
+    return a+b;
+}
+
+int main(){
+    sum(10,10);
+    cout<<endl;
+
+   add(8,8);
+   cout<< add(20,20);
+}                       
+Footer
+© 2022 GitHub, Inc.
+Footer navigation
