@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Targeted selectors</title>
+    <style>
+        div > p{
+            background:#333;
+        }
+
+        div + p{
+            background:#ddd;
+            
+        }
+
+        a[target='_blank']{
+            background: red;
+            color:white; 
+        }
+
+        a[target='_self']{
+            background: #444;
+            color:#ddd;
+        }
+    </style>
+</head>
+<body>
+    <div>
+
+        <p>Lorem ipsum dolor sit amet.</p>
+
+    <ul>
+        <li>item1</li>
+        <li><p>item2</p></li>
+        <li>item3</li>
+    </ul>
+
+    <p>Lorem ipsum dolor sit amet.</p>
+    </div>
+
+    <p>Lorem ipsum dolor sit amet.</p>
+    
+    <a href="#">Page1</a>  <a href="#" target="_self">Page2</a> <a href="https://google.com" target="_blank">Google</a>
+    
+</body>
+</html>
