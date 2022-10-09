@@ -101,3 +101,7 @@ Hi I am Pasan . Karma says, Don't be too happy . Enjoy movies : https://www.yout
 
 Hey there! I am Soumyadeepta, heres something youll enjoy : https://youtu.be/mxFstYSbBmc
 ![GIF](https://media.giphy.com/media/hsUG0ob8Rezq14kZg6/giphy.gif)
+
+Hi, My name is Nitsh.I'm a Student.I like playing badminton, you might find this video interesting: https://youtu.be/n_krN8JZeYE
+
+![GIF name](https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif)
