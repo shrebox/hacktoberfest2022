@@ -1,12 +1,22 @@
 @import url('https://fonts.googleapis.com/css2?family=Titillium+Web:wght@700&display=swap');
 
 body {
-    
+    background: url(/Footer/hogwarts.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
     font-size: 13px;
     font-weight: bold;
     color: rgb(189, 196, 203)
 }
-
+#spinner{
+    margin:100px auto;
+    
+}
+.card{
+    border-radius:20px !important;
+    background-color:rgb(17, 3, 34) !important ;
+    color: white;
+}
 ul {
     list-style-type: none;
     margin: 0;
